@@ -1,13 +1,4 @@
-# Awesome Local Job Boards [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-
-Are you planning to relocate? This list could be useful for you.
-
-Contribution guidelines:
-* Elements should be sorted alphabetically
-* Link to translated interface if possible
-* No closed groups/forums
-* No agencies boards
-* Use the following format: `[Job Board Name](https://url.to) (optional: EN localization, optional: specialization)`
+# Local Job Boards
 
 **Asia**
 * [India](#india)
